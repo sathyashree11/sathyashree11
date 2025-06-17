@@ -1,4 +1,4 @@
-# Hi, I'm Sathya Shree 👋
+# Hi This is Sathya 👋
 
 Final-year ECE student turned code explorer 💡  
 Passionate about full stack development & problem solving  
