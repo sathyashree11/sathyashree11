@@ -1,6 +1,6 @@
 # Hi there, I'm Sathya Shree 👋
 
-🎓 Final year ECE student  
+🎓 Final Year ECE Student  
 💻 Aspiring Full Stack Developer | Java FSE Trainee  
-🌱 Currently learning Spring Boot, Microservices & DSA 
-- ✅ Solved 200+ problems on LeetCode & GFG
+🌱 Learning Spring Boot, Microservices & DSA  
+✅ Solved 200+ problems on LeetCode & GFG  
