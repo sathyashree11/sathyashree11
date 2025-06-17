@@ -3,4 +3,4 @@
 🎓 Final year ECE student  
 💻 Aspiring Full Stack Developer | Java FSE Trainee  
 🌱 Currently learning Spring Boot, Microservices & DSA 
-✅ Solved 200+ problems on LeetCode & GFG
+- ✅ Solved 200+ problems on LeetCode & GFG
